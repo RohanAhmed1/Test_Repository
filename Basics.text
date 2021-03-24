@@ -1,3 +1,5 @@
 Save file with ( "basics.html" ) then given file will be saved by the given extension
+cd <directory name> is used to changed the directory
+#cd .. is used for backing directory 
 git config is only first time
 git add . then git commit 
